@@ -1,0 +1,11 @@
+.footer {
+  background-color: #1a9592;
+  height: 10rem;
+}
+.footer-list-item {
+  list-style: none;
+}
+.footer-list-item a {
+  text-decoration: none;
+  color: #f8dfff;
+}
